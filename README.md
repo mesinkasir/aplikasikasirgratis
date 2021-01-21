@@ -3,6 +3,8 @@ Aplikasi kasir gratis untuk UKM minimarket shop store dan toko indonesia
 
 [Bantuan panduan installasi lengkap nya disini](https://www.hockeycomputindo.com/2019/12/software-kasir-gratisprogram-kasir.html)
 
+![program toko kasir gratis](https://1.bp.blogspot.com/-hEsvoZ_3-dU/XejjmsBTGkI/AAAAAAAAJnw/6yq7cWL7ICUpFauV_Ur9c9paz_LmmW0kQCLcBGAsYHQ/s1600/1.software%2Bkasir%2Bgratis%252Cprogram%2Bkasir%2Bgratis%252Caplikasi%2Bkasir%2Bgratis%2B-%2Blogin.png)
+
 SOFTWARE KASIR GRATIS UNTUK MINIMARKET DAN TOKO 100% FREE..!!
 
 Penjelasan 
