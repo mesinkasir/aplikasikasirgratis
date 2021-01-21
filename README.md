@@ -1,6 +1,8 @@
 # aplikasi kasir gratis
 Aplikasi kasir gratis untuk UKM minimarket shop store dan toko indonesia
 
+[Bantuan panduan installasi lengkap nya disini](https://www.hockeycomputindo.com/2019/12/software-kasir-gratisprogram-kasir.html)
+
 SOFTWARE KASIR GRATIS UNTUK MINIMARKET DAN TOKO 100% FREE..!!
 
 Penjelasan 
@@ -8,6 +10,8 @@ jika ingin menggunakan dengan metode include PPn saat penjualan maka bisa downlo
 dan jika ingin non ppn saat penjualan maka bisa download NON PPN Version
 Software ini bisa digunakan dengan barcode laser, dan untuk universal maka pemilihan printer kami gunakan format A4
 Dedikasi untuk UKM indonesia semoga membantu pembukuan dan mempercepat transaksi nya.
+
+[Bantuan panduan installasi lengkap nya disini](https://www.hockeycomputindo.com/2019/12/software-kasir-gratisprogram-kasir.html)
 
 Installasi awal
 1. Dibutuhkan ms.accses (wajib install, atau bisa donwload ms accsess dahulu)
@@ -24,6 +28,8 @@ password : admin
 ** Untuk kasir ** <br/>
 user : kasir <br/>
 password : kasir
+
+[Bantuan panduan installasi lengkap nya disini](https://www.hockeycomputindo.com/2019/12/software-kasir-gratisprogram-kasir.html)
 
 Selamat menggunakan aplikasi program kasir gratis ini dan semoga membantu pembukuan anda.
 Kalau butuh mesin kasir kita juga sediakan free instalasi dan setting siap pakai !!
