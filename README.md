@@ -36,11 +36,7 @@ password : kasir
 Selamat menggunakan aplikasi program kasir gratis ini dan semoga membantu pembukuan anda.
 Kalau butuh mesin kasir kita juga sediakan free instalasi dan setting siap pakai !!
 
-jangan lupa untuk selalu ikuti dan like subs follow sosial media kami untuk update terbaru mesin kasir.<br/>
-Facebook	: https://www.facebook.com/mesinkasircomplete<br/>
-Youtube 	: https://www.youtube.com/channel/UCIBWTgOXH5oa2YlbfpO7QLQ/featured<br/>
-Instagram 	: https://www.instagram.com/mesinkasircomplete/<br/>
-Twitter		: https://twitter.com/hockeycomp<br/>
+[Donasi untuk secangkir kopi](https://app.midtrans.com/payment-links/1647457988722)
 
 Solusi mesin kasir kamu www.hockeycomputindo.com
 
