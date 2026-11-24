@@ -1,6 +1,9 @@
 # aplikasi kasir gratis
 Aplikasi kasir gratis untuk UKM minimarket shop store dan toko indonesia
 
+
+Explore all projects: https://www.hockeycomputindo.com
+
 [Bantuan panduan installasi lengkap nya disini](https://www.hockeycomputindo.com/2019/12/software-kasir-gratisprogram-kasir.html)
 
 ![program toko kasir gratis](https://1.bp.blogspot.com/-hEsvoZ_3-dU/XejjmsBTGkI/AAAAAAAAJnw/6yq7cWL7ICUpFauV_Ur9c9paz_LmmW0kQCLcBGAsYHQ/s1600/1.software%2Bkasir%2Bgratis%252Cprogram%2Bkasir%2Bgratis%252Caplikasi%2Bkasir%2Bgratis%2B-%2Blogin.png)
@@ -9,19 +12,20 @@ SOFTWARE KASIR GRATIS UNTUK MINIMARKET DAN TOKO 100% FREE..!!
 
 ----------------------------------------
 
-### 💖 Thanks for Sponsor 🤞 
-
-<a href="https://www.adamdjbrett.com/" target="_blank"><img src="https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true" alt="adamdjbrett" width="200" height="200"/></a> <a href="https://www.grandlimousine.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/136876765?v=4" alt="grandlimousine 1" width="200" height="200"/></a> <a href="https://www.hockeycomputindo.com/themes/" target="_blank"><img src="https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg" alt="hockeycorp" width="200" height="200"/></a>  <a href="https://fiverr.com/creativitas/" target="_blank"><img src="https://creativitas.github.io//assets/img/creativitaswebdev.webp" alt="creativitas" width="200" height="200"/></a>
-
-----------------------------------------
-
 ### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
 
 ----------------------------------------
 
-### 🥇 Supporter 👨🏻‍🚀
+### 🥇 Support Us 👨🏻‍🚀
 
-<a href="https://github.com/adamdjbrett"><img src="https://avatars.githubusercontent.com/u/22662978?v=4" width="80" height="80"/></a> <a href="https://github.com/grandlimo/"><img src="https://avatars.githubusercontent.com/u/136876765?v=4" width="80" height="80"/></a> <a href="https://github.com/creativebydre"><img alt="creativebydre" src="https://avatars.githubusercontent.com/u/70264436?v=4" width="80" height="80"/></a> <a href="https://github.com/creativitas"><img alt="creativitas" src="https://avatars.githubusercontent.com/u/112189857?v=4" width="80" height="80"/></a>
+
+GitHub: https://github.com/sponsors/mesinkasir
+
+PayPal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN
+
+Gumroad: https://creativitaz.gumroad.com/coffee
+
+Explore all projects: https://www.hockeycomputindo.com
 
 ----------------------------------------
 
